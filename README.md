@@ -5,7 +5,7 @@
 - css
 - basic javascript
 - https://en.wikipedia.org/wiki/BASIC
-- python kinda
+- python
 - lua kinda
 
 stats
