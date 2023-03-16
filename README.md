@@ -6,6 +6,7 @@
 - basic javascript
 - https://en.wikipedia.org/wiki/BASIC
 - python
+- visual basic script
 - lua kinda
 
 stats
